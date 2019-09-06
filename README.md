@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Tim Williams, Program t127, Full stack development class.
